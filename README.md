@@ -29,7 +29,7 @@ These are the code to train and validate the DistilBERT and XLNet model
 * xlnet2 = Training and testing for the 1st XLNet model iteration on the complete dataset
 * xlnet3 = Training and testing for the 2nd XLNet model iteration on the complete dataset
 
-All the saved models can be found in the [OneDrive]([https://www.genome.gov/](https://latrobeuni-my.sharepoint.com/:f:/g/personal/22081967_students_ltu_edu_au/Eh0cZB3LsqNFosjNGODSmCwBV5Rt2oK0oZEH4TU8uu_deg?e=IcWfnF))
+All the saved models can be found in the [OneDrive](https://latrobeuni-my.sharepoint.com/:f:/g/personal/22081967_students_ltu_edu_au/Eh0cZB3LsqNFosjNGODSmCwBV5Rt2oK0oZEH4TU8uu_deg?e=IcWfnF)
 
 
 
